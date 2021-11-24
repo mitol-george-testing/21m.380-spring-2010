@@ -1,0 +1,50 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Music",
+      "Music History"
+    ],
+    [
+      "Fine Arts",
+      "Music",
+      "Music Theory"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies",
+      "Digital Media"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "5372fdf3-1d20-6255-d552-d5512391fb4f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Music and Technology: Algorithmic and Generative Music",
+  "course_description": "This course examines the history, techniques, and aesthetics of mechanical and computer-aided approaches to algorithmic music composition and generative music systems. Through creative hands-on projects, readings, listening assignments, and lectures, students will explore a variety of historical and contemporary approaches. Diverse tools and systems will be employed, including applications in Python, MIDI, Csound, SuperCollider, and Pure Data.\n",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21M.380",
+  "learning_resource_types": [
+    "Music",
+    "Projects with Examples",
+    "Lecture Notes",
+    "Written Assignments with Examples",
+    "Design Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
